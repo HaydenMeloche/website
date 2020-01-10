@@ -2,17 +2,17 @@
     "RBC": [
         {
             "title": "Full Stack Developer",
-            "date": "Oct 2019 – Present"
+            "date": "Oct 2019 – Present",
             "description": ""
         },
         {
             "title": "Integrations and API Developer",
-            "date": "Jan 2019 – Oct 2019"
+            "date": "Jan 2019 – Oct 2019",
             "description": "As an API Developer I worked on the Platform API team. We built API's that were consumed by multiple labs within our space by providing them services to aid in their development. Our RESTful API's are built in Spring Boot, integrating with MSSQL/MariaDB, running on Pivotal Cloud Foundry with our CI/CD powered by Jenkins. We were constantly trying to push our departments engineering standards by setting examples of best practices when it comes to integration, service layer, and database testing. As well as, increasing our efficiency to production by leveraging modern tools like Flyway."
         },
         {
             "title": "Developer (Part-time)",
-            "date": "Sep 2018 – Dec 2018"
+            "date": "Sep 2018 – Dec 2018",
             "description": "After a successful co-op term, I was given the opportunity to work part-time during my last semester of school as the technical lead for a co-op team I previously worked on.
 
             My responsibilities included:
@@ -24,7 +24,7 @@
         },
         {
             "title": "Developer CO-OP",
-            "date": "May 2018 – Sep 2018"
+            "date": "May 2018 – Sep 2018",
             "description": "Worked on development team of co-ops at RBC. We were given the task to build a complete prototype credit application. As a team, we designed and built this application that calculated and monitored formulas that determined if someone was eligible for credit. At the end of the co-op term, we presented our application to executives at RBC which had very positive feedback.
 
             Technologies used:
@@ -38,7 +38,7 @@
     "AlphaConsole": [
         {
             "title": "Creator & Lead Developer"
-            "date": "Feb 2017 - Present"
+            "date": "Feb 2017 - Present",
             "description": "• Creator and lead developer of AlphaConsole, a PC mod for Rocket League which allows community driven features and add-ons for the game.
             • AlphaConsole has a 3 person development and 8 person support team for our 200,000 active users.
             • Components including a front-end client program (written in C++ with Electron based UI), a Discord bot (Node.JS) and a backend API (PHP) that connects the Discord bot and client program to an MySQL database.
