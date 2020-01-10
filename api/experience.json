@@ -13,37 +13,19 @@
         {
             "title": "Developer (Part-time)",
             "date": "Sep 2018 – Dec 2018",
-            "description": "After a successful co-op term, I was given the opportunity to work part-time during my last semester of school as the technical lead for a co-op team I previously worked on.
-
-            My responsibilities included:
-            • Helping students on-board into their developer role
-            • Reviewing pull requests and giving feedback
-            • Reviewing resumes and choosing candidates for interviews
-            • Interviewing candidates for positions
-            • Individual project to integrate existing system with Quickbooks API to download data for modeling"
+            "description": "After a successful co-op term, I was given the opportunity to work part-time during my last semester of school as the technical lead for a co-op team I previously worked on.\n My responsibilities included: \n• Helping students on-board into their developer role \n• Reviewing pull requests and giving feedback \n• Reviewing resumes and choosing candidates for interviews \n• Interviewing candidates for positions \n• Individual project to integrate existing system with Quickbooks API to download data for modeling"
         },
         {
             "title": "Developer CO-OP",
             "date": "May 2018 – Sep 2018",
-            "description": "Worked on development team of co-ops at RBC. We were given the task to build a complete prototype credit application. As a team, we designed and built this application that calculated and monitored formulas that determined if someone was eligible for credit. At the end of the co-op term, we presented our application to executives at RBC which had very positive feedback.
-
-            Technologies used:
-            • Angular 6 front-end
-            • Java Spring Boot back-end
-            • Jenkins, UCD for CI/CD
-            • Bluemix as our PaaS
-            • Apigee as our API gateway"
+            "description": "Worked on development team of co-ops at RBC. We were given the task to build a complete prototype credit application. As a team, we designed and built this application that calculated and monitored formulas that determined if someone was eligible for credit. At the end of the co-op term, we presented our application to executives at RBC which had very positive feedback \nTechnologies used: \n• Angular 6 front-end \n• Java Spring Boot back-end \n• Jenkins, UCD for CI/CD \n• Bluemix as our PaaS \n• Apigee as our API gateway"
         }
     ],
     "AlphaConsole": [
         {
-            "title": "Creator & Lead Developer"
+            "title": "Creator & Lead Developer",
             "date": "Feb 2017 - Present",
-            "description": "• Creator and lead developer of AlphaConsole, a PC mod for Rocket League which allows community driven features and add-ons for the game.
-            • AlphaConsole has a 3 person development and 8 person support team for our 200,000 active users.
-            • Components including a front-end client program (written in C++ with Electron based UI), a Discord bot (Node.JS) and a backend API (PHP) that connects the Discord bot and client program to an MySQL database.
-            • AlphaConsole on average handles over 300,000 API calls a day.
-            • We have expanded into doing partnerships with Youtubers, popular Twitch streamers, and have become the largest Discord server in the world for Rocket League."
+            "description": "• Creator and lead developer of AlphaConsole, a PC mod for Rocket League which allows community driven features and add-ons for the game. \n• AlphaConsole has a 3 person development and 8 person support team for our 200,000 active users. \n• Components including a front-end client program (written in C++ with Electron based UI), a Discord bot (Node.JS) and a backend API (PHP) that connects the Discord bot and client program to an MySQL database. \n• AlphaConsole on average handles over 300,000 API calls a day. \n• We have expanded into doing partnerships with Youtubers, popular Twitch streamers, and have become the largest Discord server in the world for Rocket League."
         }
     ]
 }
